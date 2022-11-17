@@ -1,4 +1,4 @@
-Hello, i'm python developer with nickname th31.
+Hello, I'm Python, GO, React developer with nickname th31.
 
 <!---
 thhh31/thhh31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
